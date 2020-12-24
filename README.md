@@ -6,10 +6,10 @@ Simulated annealing (SA) is a probabilistic technique for approximating the glob
 This project represents generic implementation of Simulated Annealing algorithm. Application to solve traveling salesman problem included as a testbench.
 
 Steps to build the project:
-  mkdir build
-  cd build
-  cmake ..
-  make
+  - mkdir build
+  - cd build
+  - cmake ..
+  - make
 
 To run tests:
-  ctest
+  - ctest
